@@ -47,6 +47,14 @@
         <code><img height="48px" src="https://cdn.svgporn.com/logos/vue.svg"></code>
 <!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png -->
       </td>
+      <td align="center">
+        <span>Swift</span><br><br>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/swift.svg"></code>
+      </td>
+      <td align="center">
+        <span>Python</span><br><br>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/python.svg"></code>
+      </td>
     </tr>
   </tbody>
 </table>
