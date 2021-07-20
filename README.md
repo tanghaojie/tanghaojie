@@ -62,11 +62,13 @@
   </tbody>
 </table>
 
-**💡 Blog 博客**
+**💡 Blog (same of three) 博客 (3个是一样的，自动化部署)**
 
 - 👉 [https://jackie_tang.gitee.io/](https://jackie_tang.gitee.io/)
 
 - 👉 [https://tanghaojie.github.io/](https://tanghaojie.github.io/)
+
+- 👉 [https://tanghaojie.vercel.app/](https://tanghaojie.vercel.app/)
 
 ![](https://github-readme-stats.vercel.app/api?username=tanghaojie&show_icons=true&theme=bear)
 
