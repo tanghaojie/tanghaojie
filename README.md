@@ -62,7 +62,7 @@
   </tbody>
 </table>
 
-**💡 Blog (same of three) 博客 (3个是一样的，自动化部署)**
+**💡 Blog (same of three) 博客 (3个是一样的)**
 
 - 👉 [https://jackie_tang.gitee.io/](https://jackie_tang.gitee.io/)
 
