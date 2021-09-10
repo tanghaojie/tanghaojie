@@ -45,7 +45,8 @@
         </td>
         <td align="center">
           <span>C#</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
+          <code><img height="48px" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<!--         https://cdn.svgporn.com/logos/c-sharp.svg -->
 <!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png -->
         </td>
         <td align="center">
