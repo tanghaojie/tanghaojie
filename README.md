@@ -35,14 +35,8 @@
 <!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png -->
         </td>
         <td align="center">
-          <span>Html</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png -->
-        </td>
-        <td align="center">
-          <span>Css</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png -->
+          <span>Python</span><br><br>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/python.svg"></code>
         </td>
         <td align="center">
           <span>C#</span><br><br>
@@ -54,9 +48,15 @@
           <code><img height="48px" src="https://cdn.svgporn.com/logos/swift.svg"></code>
         </td>
         <td align="center">
-          <span>Python</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/python.svg"></code>
-        </td>        
+          <span>Html</span><br><br>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png -->
+        </td>
+        <td align="center">
+          <span>Css</span><br><br>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png -->
+        </td>    
     </tr>
 
   </tbody>
