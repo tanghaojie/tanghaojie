@@ -77,7 +77,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tanghaojie&show_icons=true&theme=bear)
 
+<!-- 微信
 <img height="150" src="https://jackie_tang.gitee.io/pic_cloud/WeChat/qrcode2_compress.png" />
+-->
 
 <!--
 **tanghaojie/tanghaojie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
