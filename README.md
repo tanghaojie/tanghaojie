@@ -83,7 +83,7 @@
 
 ---
 
-- 👉 [💡 Blog 博客](https://tanghaojie.github.io/)
+- 👉 Blog 博客: [https://tanghaojie.github.io/](https://tanghaojie.github.io/)
 
 ---
 
