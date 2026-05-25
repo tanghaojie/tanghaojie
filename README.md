@@ -79,10 +79,13 @@
 
 ---
 
-[AI 简史 (A Brief History of AI)](https://github.com/tanghaojie/A-Brief-History-of-Al)
+- 📕 Books: **[AI 简史 (A Brief History of AI)](https://github.com/tanghaojie/A-Brief-History-of-Al)**
 
-**💡 Blog 博客**
-- 👉 [https://tanghaojie.github.io/](https://tanghaojie.github.io/)
+---
+
+- 👉 [💡 Blog 博客](https://tanghaojie.github.io/)
+
+---
 
 <!-- 微信
 <img height="150" src="https://jackie_tang.gitee.io/pic_cloud/WeChat/qrcode2_compress.png" />
