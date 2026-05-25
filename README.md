@@ -1,6 +1,6 @@
 ### 👋 Hi 我是桀士(Jackie Tang)👓
 
-🎈 Full Stack. AI Student. GISer.
+🎈 Full Stack. AI. GISer.
 
 **💡 Tech Stack 技术栈**
 
