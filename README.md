@@ -8,12 +8,12 @@
   <tbody>
     <tr align="top">
       <td align="center">
-        <span>GIS</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/google-maps.svg"></code>
-      </td>
-      <td align="center">
         <span>Node.js</span><br><br>
         <code><img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
+      </td>
+       <td align="center">
+        <span>GIS</span><br><br>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/google-maps.svg"></code>
       </td>
       <td align="center">
         <span>Database</span><br><br>
@@ -48,7 +48,7 @@
         </td>
         <td align="center">
           <span>Java</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/java"></code>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/java.svg"></code>
         </td>
         <td align="center">
           <span>Python</span><br><br>
@@ -72,12 +72,7 @@
           <span>Html</span><br><br>
           <code><img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png -->
-        </td>
-        <td align="center">
-          <span>Css</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png -->
-        </td>    
+        </td> 
     </tr>
 
   </tbody>
