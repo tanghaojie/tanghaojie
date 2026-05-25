@@ -37,14 +37,11 @@
     <tr align="top">
         <td align="center">
           <span>Typescript</span><br><br>
-          <code>
-            <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">                 </code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png -->
+          <code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
         </td>
         <td align="center">
           <span>Javascript</span><br><br>
           <code><img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png -->
         </td>
         <td align="center">
           <span>Java</span><br><br>
