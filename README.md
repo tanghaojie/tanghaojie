@@ -75,15 +75,8 @@
   </tbody>
 </table>
 
-**💡 Blog (same of three) 博客 (3个是一样的)**
-
-- 👉 [https://jackie_tang.gitee.io/](https://jackie_tang.gitee.io/)
-
+**💡 Blog 博客**
 - 👉 [https://tanghaojie.github.io/](https://tanghaojie.github.io/)
-
-- 👉 [https://tanghaojie.vercel.app/](https://tanghaojie.vercel.app/)
-
-![](https://github-readme-stats.vercel.app/api?username=tanghaojie&show_icons=true&theme=bear)
 
 <!-- 微信
 <img height="150" src="https://jackie_tang.gitee.io/pic_cloud/WeChat/qrcode2_compress.png" />
