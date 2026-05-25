@@ -81,8 +81,6 @@
 
 - 📕 Books: **[AI 简史 (A Brief History of AI)](https://github.com/tanghaojie/A-Brief-History-of-Al)**
 
----
-
 - 👉 Blog 博客: [https://tanghaojie.github.io/](https://tanghaojie.github.io/)
 
 ---
