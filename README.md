@@ -18,7 +18,7 @@
         <code><img height="48px" src="https://cdn.svglogos.dev/logos/ethereum.svg"></code>
       </td>
       <td align="center">
-        <span>GIS</span><br><br>
+        <span>GIS - 3D</span><br><br>
         <code><img height="48px" src="https://cdn.svgporn.com/logos/google-maps.svg"></code>
       </td>
       <td align="center">
