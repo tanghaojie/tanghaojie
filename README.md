@@ -11,72 +11,69 @@
     <tr align="top">
       <td align="center">
         <span>Node.js</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg" /></code>
       </td>
       <td align="center">
         <span>GIS - 3D</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/google-maps.svg"></code>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/google-maps.svg" /></code>
       </td>
       <td align="center">
         <span>Database</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/cakephp-icon.svg"></code>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/cakephp-icon.svg" /></code>
       </td>
       <td align="center">
         <span>BlockChain</span><br><br>
-        <code><img height="48px" src="https://cdn.svglogos.dev/logos/ethereum.svg"></code>
+        <code><img height="48px" src="https://cdn.svglogos.dev/logos/ethereum.svg" /></code>
       </td>
       <td align="center">
         <span>Vue</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/vue.svg"></code>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/vue.svg" /></code>
       </td>
       <td align="center">
         <span>Uniapp</span><br><br>
-        <code><img height="48px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA5CAYAAABj2ui7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAABN0lEQVRoQ+3YoU7DcBTF4XM6N0MCAsMTbAIkUxB4ADB7hiGxhCyMILCT9BVQ8AagQIJgT4BBlITsAS4GdWlKVjZxbu6X1Jw0TX7pPxXl8HbYmX2+n4E4BbCBOCoYph0erp2DuALQ9XeI64I4KH7eXFhFsGP5S+GHaDJQXQaqy0B1GagufCD75cD8+BczPJJ4qNlPSGz6fVFm+CBxU7Pvk9jze5NWgQAu30ZPEz/2yt0Xgtt+X5TBXmej5x2/98vBBMCF35uEP6IZqC4D1WWgugxUl4HqMlBdBqrLQHUZqC4D1WWguqUG0jg34Ou/F41z/+y2lvrjd9Xyx2+NDFQXPrDlR8bujXbn11Wj8Rjgkd+btAzUEf6IZqC6DFSXgeoKAJUfIylgmPoxkqK3vnUNwzjgm6xgGH8DeORkBBj1QtwAAAAASUVORK5CYII=" /></code>
+        <code><img height="48px" src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA5CAYAAABj2ui7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49J++7vycgaWQ9J1c1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCc/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj48dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz4slJgLAAABN0lEQVRoQ+3YoU7DcBTF4XM6N0MCAsMTbAIkUxB4ADB7hiGxhCyMILCT9BVQ8AagQIJgT4BBlITsAS4GdWlKVjZxbu6X1Jw0TX7pPxXl8HbYmX2+n4E4BbCBOCoYph0erp2DuALQ9XeI64I4KH7eXFhFsGP5S+GHaDJQXQaqy0B1GagufCD75cD8+BczPJJ4qNlPSGz6fVFm+CBxU7Pvk9jze5NWgQAu30ZPEz/2yt0Xgtt+X5TBXmej5x2/98vBBMCF35uEP6IZqC4D1WWgugxUl4HqMlBdBqrLQHUZqC4D1WWguqUG0jg34Ou/F41z/+y2lvrjd9Xyx2+NDFQXPrDlR8bujXbn11Wj8Rjgkd+btAzUEf6IZqC6DFSXgeoKAJUfIylgmPoxkqK3vnUNwzjgm6xgGH8DeORkBBj1QtwAAAAASUVORK5CYII='/></code>
       </td>
       <td align="center">
         <span>React</span><br><br>
-        <code><img height="48px" src="https://cdn.svgporn.com/logos/react.svg"></code>
+        <code><img height="48px" src="https://cdn.svgporn.com/logos/react.svg" /></code>
       </td>
       <td align="center">
         <span>.Net</span><br><br>
-        <code><img height="48px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
+        <code><img height="48px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></code>
       </td>
     </tr>
     <tr align="top">
         <td align="center">
           <span>Typescript</span><br><br>
-          <code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+          <code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
         </td>
         <td align="center">
           <span>Javascript</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code>
         </td>
         <td align="center">
           <span>Java</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/java.svg"></code>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/java.svg" /></code>
         </td>
         <td align="center">
           <span>Python</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/python.svg"></code>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/python.svg" /></code>
         </td>
          <td align="center">
           <span>Solidity</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png -->
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg" /></code>
         </td>
         <td align="center">
           <span>Swift</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/swift.svg"></code>
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/swift.svg" /></code>
         </td>
         <td align="center">
           <span>C#</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png -->
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/c-sharp.svg" /></code>
         </td>
         <td align="center">
           <span>Html</span><br><br>
-          <code><img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<!--         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png -->
+          <code><img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code>
         </td> 
     </tr>
 
