@@ -176,20 +176,6 @@ Solidity · 智能合约 · NFT 应用 · 区块链应用 · AI 数字人与 NFT
 
 ---
 
-## 💡 Project Experience 项目实践
-
-### RoleAI
-
-An exploratory application combining AI digital humans, virtual identities and NFT technology.
-
-一个融合 AI 数字人、虚拟身份与 NFT 技术的探索型应用。
-
-The project explored digital human interaction, intelligent character experiences, blockchain-based identity and digital asset ownership.
-
-项目围绕数字人交互、智能角色体验、区块链身份及数字资产所有权进行了实践探索。
-
----
-
 ## 📝 Blog 博客
 
 Technical articles about AI, software engineering, GIS and emerging technologies.
